@@ -1,4 +1,2 @@
-# Spring MVC Tutorial | Spring Boot | Full Course [2021]
-Spring MVC Tutorial | Spring Boot | Full Course [2021] at https://youtu.be/Ku3gsv7_bCc
-
-Blog tutorial at https://www.javaguides.net/2021/05/spring-boot-crud-tutorial.html
+# Spring MVC 练手工作文档
+##已经完成认证部分了,在HomeControl里面新建了用户.当前使用Mysq数据库.打开首页时尝试加载用户.当前用户登录好像不能成功,不知道原因,需要进一步调试
